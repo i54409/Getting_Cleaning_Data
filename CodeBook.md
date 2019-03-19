@@ -1,7 +1,7 @@
 ## The code book explains the variables in resultant data set
 ### The submitted result is called "HumanActivity.txt"
 ### It includes the subject, name of the activity and mean/std of the measurements
-### Each of them represents one column in the data set
+### Each of them has one column in the data set
 * Activity - WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING
 * Subject - 30 volunteers, each number represents one volunteer
 * the remaining 66 columns represent mean and standard deviation of different activities along X, Y or Z direction
