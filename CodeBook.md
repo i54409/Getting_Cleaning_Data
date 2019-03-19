@@ -10,5 +10,6 @@
 * tBodyGyro - time domain signals for the body angular velocit
 * tBodyAccMag - time domain signals magnitude of the body acceleration
 * tBodyAccJerkMag - time domain Jerk signals magnitude of the body acceleration
+* f - if start with 'f', it indicates frequency domain signals
 
 
