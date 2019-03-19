@@ -4,7 +4,7 @@
 ### Each of them represents one column in the data set
 * Activity - WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING
 * Subject - 30 volunteers, each number represents one volunteer
-* the remaining column represent mean and standard deviation of different activities along X, Y or Z direction
+* the remaining 66 columns represent mean and standard deviation of different activities along X, Y or Z direction
 * tBodyAcc - time domain signals for the body linear acceleration
 * tGravityAcc - time domain signals for the gravity acceleration
 * tBodyGyro - time domain signals for the body angular velocit
